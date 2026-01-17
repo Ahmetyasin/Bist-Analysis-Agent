@@ -32,4 +32,3 @@ results/*.json
 
 # Large media files
 *.mov
-*.mp4

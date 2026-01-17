@@ -93,7 +93,7 @@ streamlit run app.py
 
 The UI will open at `http://localhost:8501`
 
-**Note**: A UI flow demonstration video (`UI_flow.mov`) is available in the repository root showing the complete workflow.
+**UI Demo**: See `UI_flow.mp4` in the repository root for a complete workflow demonstration.
 
 **Features:**
 - Pre-defined query categories with examples
