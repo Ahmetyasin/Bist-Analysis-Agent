@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+
+# Environment
+.env
+
+# IDE
+.vscode/
+.idea/
+.claude/
+
+# System
+.DS_Store
+Thumbs.db
+
+# Data
+data/embeddings/
+data/documents/
+
+# Results
+results/*.json
+
+# Logs
+*.log
+
+# Large media files
+*.mov
+*.mp4
